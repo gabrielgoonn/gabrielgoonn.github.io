@@ -1,0 +1,28 @@
+body {
+    background-color: #DFD0F2;
+}
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    color: #3A3335  
+}
+
+.descricao {
+    font-family: monospace;
+     color: #F45866
+}
+.listasize1{
+    font-size: medium;
+}
+.listasize2{
+    font-size: large;
+}
+.listasize3{
+    font-size: larger;
+}
+.listasize4{
+    font-size: x-large;
+}
+.listasize5{
+    font-size: xx-large;
+}
