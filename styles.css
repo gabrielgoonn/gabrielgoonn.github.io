@@ -50,3 +50,38 @@ h1 {
 	position:relative;
 	top:1px;
 }
+.nome-titulo{
+	padding: 30px 70px 30px 70px;
+	text-align: center;
+}
+.nome-texto{
+	padding: 30px 70px 30px 70px;
+	text-align: center;
+}
+.foto{
+	display: inline-block;
+    margin-left: 40%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+    padding-left: 50px;
+	padding-right: 50px;
+	background-color: blueviolet;
+  
+}
+.description{
+	position: relative;
+	padding: 30px;
+	text-align: right;
+	top: -150px;
+	left: -350px;
+	
+    
+}
+.listaestilo{
+	text-align: center;
+	list-style: inside;
+}
+
+.listaitem{
+	
+}
